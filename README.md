@@ -38,3 +38,4 @@ docker build -t mern-backend .
 
 `docker compose up -d`
 
+This project is a MERN stack application using Docker Compose.
