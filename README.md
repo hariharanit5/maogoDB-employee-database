@@ -40,7 +40,6 @@ docker build -t mern-backend .
 
 This project is a MERN stack application using Docker Compose.
 
-
-This project is a MERN stack
+3-layer arch project
 
 
